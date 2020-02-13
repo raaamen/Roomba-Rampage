@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2f8ca5f8b17f83e4fb0cd2e18ff1f98c
+guid: f18c4d045b79fbd4fad5a1fcb868806b
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable: []
@@ -7,8 +7,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Roomba Mats
-    second: {fileID: 2100000, guid: 303bbfa616fd90844a71cce5d7b4d3f5, type: 2}
+      name: Knife.004
+    second: {fileID: 2100000, guid: 2aba73736d3e839468c684a2ed05bc27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rough Black.004
+    second: {fileID: 2100000, guid: 1b8081b86a3366b4ca966815a1c84942, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

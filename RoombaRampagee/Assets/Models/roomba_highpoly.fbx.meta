@@ -3,7 +3,12 @@ guid: 84746be67b25ada4bbb87574205a48df
 ModelImporter:
   serializedVersion: 26
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rough Black
+    second: {fileID: 2100000, guid: 303bbfa616fd90844a71cce5d7b4d3f5, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
